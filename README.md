@@ -1,6 +1,6 @@
 # Nirridit
 
-Evil files. Can be expanded on for pentesting and red teaming.
+Evil files for practising with Python. Can be expanded on for pentesting and red teaming. 
 
 - [ ] [Keyloggers](keyloggers)    <= in progress
 - [ ] [Backdoors](backdoors)
