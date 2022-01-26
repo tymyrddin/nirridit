@@ -3,6 +3,15 @@
 Evil files for practising with Python. Can be expanded on for pentesting and red teaming. 
 With many thanks to [EONRaider](https://github.com/EONRaider), [BlackHat](https://www.blackhat.com/), and [ZSecurity](https://zsecurity.org/).
 
+## Requirements
+
+* [A small pentesting lab](https://github.com/tymyrddin/ymrir/wiki/pentesting-lab.md) with Kali and a Windows 10 (virtual) machines. Host was an Ubuntu 20.04. 
+* The scripts have defaults set for our lab. If you wish to run these, change the defaults to your context or provide arguments.
+
+<img align="left" src="https://github.com/tymyrddin/darkest-forest/blob/main/assets/images/warning.png">_Do not implement and execute these on a network or system you do not own. Execute only on [your own systems for learning purposes](https://github.com/tymyrddin/ymrir/wiki). Do not execute these on any production network or system, unless "Rules of engagement" have been agreed on, and you have a "Get out of jail free" card of some sort._
+
+## Scripts
+
 - [x] [Keyloggers](keyloggers)    <= in progress
 - [ ] [Backdoors](backdoors)
 - [ ] [Trojans](trojans)
