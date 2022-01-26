@@ -1,6 +1,7 @@
 # Nirridit
 
 Evil files for practising with Python. Can be expanded on for pentesting and red teaming. 
+With many thanks to [EONRaider](https://github.com/EONRaider), [BlackHat](https://www.blackhat.com/), and [ZSecurity](https://zsecurity.org/).
 
 - [ ] [Keyloggers](keyloggers)    <= in progress
 - [ ] [Backdoors](backdoors)
