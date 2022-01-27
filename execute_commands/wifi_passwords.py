@@ -28,4 +28,4 @@ for network_name in network_names_list:
     result = result + current_result
 
 
-send_mail("user@mail.com", "password", result)
+send_mail("username@gmail.com", "password", result)
