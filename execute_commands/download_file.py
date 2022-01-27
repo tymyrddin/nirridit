@@ -10,4 +10,6 @@ def download(url):
         output_file.write(get_response.content)
 
 
-download("https://raw.githubusercontent.com/tymyrddin/darkest-forest/main/assets/images/warning.png")
+download(
+    "https://raw.githubusercontent.com/tymyrddin/darkest-forest/main/assets/images/warning.png"
+)
