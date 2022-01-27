@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Copy this script to the Windows VM
+# Copy this script to the Windows VM and execute
 
 import re  # https://docs.python.org/3/library/re.html
 import smtplib  # https://docs.python.org/3/library/smtplib.html
