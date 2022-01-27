@@ -9,8 +9,9 @@ With many thanks to [EONRaider](https://github.com/EONRaider), [BlackHat](https:
 
 ## Scripts
 
-- [x] [Keyloggers](keyloggers)    <= in progress
-- [ ] [Backdoors](backdoors)
+- [x] [Execute system commands](execute_commands)
+- [x] [Keyloggers](keyloggers)    
+- [ ] [Backdoors](backdoors)   <= in progress
 - [ ] [Trojans](trojans)
 
 ## Problems or Suggestions
