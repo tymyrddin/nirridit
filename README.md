@@ -1,6 +1,6 @@
 # Nirridit
 
-Repo reserved for creating an evil file, as part of practicing Python 3 in an interesting way.
+Repo reserved for creating an evil file, as part of [practicing with Python 3 in an interesting way](https://github.com/tymyrddin/ymrir).
 With many thanks to [EONRaider](https://github.com/EONRaider), [BlackHat](https://www.blackhat.com/), and [ZSecurity](https://zsecurity.org/).
 
 ## Requirements
