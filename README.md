@@ -1,6 +1,7 @@
 # Nirridit
 
 Linux and macOS have Python installed, so keyloggers and backdoors written in Python will usually work.  This is not the case for Windows. And it is best practice developing the scripts on a Windows machine version the evil files are intended for. 
+
 This repo is reserved for development of scripts on a Windows 10 machine, as part of [practicing with Python 3 in interesting ways](https://github.com/tymyrddin/ymrir) and learning about Windows. 
 With many thanks to [EONRaider](https://github.com/EONRaider), [BlackHat](https://www.blackhat.com/), and [ZSecurity](https://zsecurity.org/).
 
