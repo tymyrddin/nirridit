@@ -13,9 +13,9 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 
 ## Scripts
 
-- [ ] [Keylogger](keylogger)  <= in progress
-- [ ] Screenshot
-- [ ] Shellcode execution
+- [x] [Keylogger](keyloggers) 
+- [x] [Screenshot](screenshot)
+- [x] [Shellcode execution](shellcode) <= in progress
 - [ ] Sandbox detection
 - [ ] Encrypting and decrypting files
 - [ ] Email exfiltration
