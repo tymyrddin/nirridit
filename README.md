@@ -13,7 +13,7 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 
 ## Scripts
 
-- [x] [Keylogger](keyloggers) 
+- [x] [Keylogger](keyloggers)
 - [x] [Screenshot](screenshot)
 - [x] [Shellcode execution](shellcode) <= in progress
 - [ ] Sandbox detection
