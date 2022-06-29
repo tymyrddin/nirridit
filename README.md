@@ -15,6 +15,7 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 
 - [x] [Keylogger](keyloggers)
 - [x] [Screenshot](screenshot)
+- [x] [Windows directory traversal](traversal-windows)
 - [x] [Shellcode execution](shellcode) <= in progress
 - [ ] Sandbox detection
 - [ ] Encrypting and decrypting files
