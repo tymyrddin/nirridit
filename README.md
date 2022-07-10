@@ -13,19 +13,13 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 
 ## Scripts
 
+- [x] [Backdoors](backdoors)
 - [x] [Keylogger](keyloggers)
+- [x] [Miscellaneous](miscellaneous)
+- [x] [Password recovery](password-recovery)
 - [x] [Screenshot](screenshot)
-- [x] [Shellcode execution](shellcode) <= in progress
-- [ ] Sandbox detection
-- [ ] Encrypting and decrypting files
-- [ ] Email exfiltration
-- [ ] File transfer exfiltration
-- [ ] Using a webserver for exfiltration
-- [ ] Process monitor
-- [ ] Windows token privileges
-- [ ] File monitor
-- [ ] Code injection
-- [ ] Using volatility
+- [x] [Shellcode execution](shellcode)
+
 
 ## Problems or Suggestions
 

