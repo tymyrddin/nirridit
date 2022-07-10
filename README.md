@@ -20,7 +20,6 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 - [x] [Screenshot](screenshot)
 - [x] [Shellcode execution](shellcode)
 
-
 ## Problems or Suggestions
 
 This project welcomes contributions and suggestions. 
