@@ -13,12 +13,12 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 
 ## Scripts
 
+- [x] [Shellcode execution](shellcode)
 - [x] [Backdoors](backdoors)
 - [x] [Keylogger](keyloggers)
-- [x] [Miscellaneous](miscellaneous)
 - [x] [Password recovery](password-recovery)
 - [x] [Screenshot](screenshot)
-- [x] [Shellcode execution](shellcode)
+- [x] [Deliver](deliver)
 
 ## Problems or Suggestions
 
