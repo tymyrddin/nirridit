@@ -2,7 +2,7 @@
 
 Linux and macOS have Python installed, so evil scripts written in Python will usually work.  This is not the case for Windows. And it is best practice developing the scripts on a Windows machine version the scripts are intended for. 
 
-This repo is reserved for development of evil scripts, as part of [practicing with Python 3 in interesting ways](https://github.com/tymyrddin/ymrir) and learning about Windows. 
+This repo is reserved for evil scripts, as part of [a pentesting and red teaming trainingzone](https://tymyrddin.github.io/attack-trees). 
 With many thanks to [EONRaider](https://github.com/EONRaider), [BlackHat](https://www.blackhat.com/), and [ZSecurity](https://zsecurity.org/).
 
 ## Requirements
