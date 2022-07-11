@@ -15,7 +15,7 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 
 - [x] [Shellcode execution](shellcode)
 - [x] [Backdoors](backdoors)
-- [x] [Keylogger](keyloggers)
+- [x] [Keyloggers](keyloggers)
 - [x] [Password recovery](password-recovery)
 - [x] [Screenshot](screenshot)
 - [x] [Deliver](deliver)
