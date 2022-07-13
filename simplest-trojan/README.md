@@ -1,4 +1,4 @@
-# Deliver
+# Simplest trojan
 
 * [Combine evil file with normal file](bat-files)
 * [Convert evil.bat files to .exe](exe-files) (for silently running in background)
