@@ -5,3 +5,4 @@
 * Change [file icon](icons) of the download and execute file
 * Spoof file extension [with RLO](rlo)
 * Spoof file extension [with WinRAR zip and hexeditor](zip-files)
+* [Autoit](autoit)

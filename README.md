@@ -18,7 +18,7 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 - [x] [Keyloggers](keyloggers)
 - [x] [Password recovery](password-recovery)
 - [x] [Screenshot](screenshot)
-- [x] [Deliver](deliver)
+- [x] [Simplest trojan](simplest-trojan)
 
 ## Problems or Suggestions
 
