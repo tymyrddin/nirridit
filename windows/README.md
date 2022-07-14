@@ -8,4 +8,4 @@
 - [x] [Password recovery](password-recovery)
 - [x] [Screenshot](screenshot)
 - [x] [Simplest trojan](simplest-trojan)
-- [x] [VBA](vba)
+- [x] [Embedding macros](vba)
