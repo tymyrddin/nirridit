@@ -13,12 +13,9 @@ Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to cre
 
 ## Scripts
 
-- [x] [Shellcode execution](shellcode)
-- [x] [Backdoors](backdoors)
-- [x] [Keyloggers](keyloggers)
-- [x] [Password recovery](password-recovery)
-- [x] [Screenshot](screenshot)
-- [x] [Simplest trojan](simplest-trojan)
+- [x] [Windows](windows)
+- [ ] [macOS](macos)
+- [ ] [Linux](linux)
 
 ## Problems or Suggestions
 
