@@ -5,11 +5,9 @@ With many thanks to [EONRaider](https://github.com/EONRaider), [BlackHat](https:
 
 Note: Linux and macOS have Python installed, so evil scripts written in Python will usually work.  This is not the case for Windows. And it is best practice developing the scripts on a Windows machine version the scripts are intended for. 
 
-## Requirements
+## Warning
 
 <img align="left" src="https://github.com/tymyrddin/attack-trees/blob/main/assets/images/warning.png">_Do not implement and execute these on a network or system you do not own. Execute only on [your own systems for learning purposes](https://github.com/tymyrddin/ymrir/wiki). Do not execute these on any production network or system, unless "Rules of engagement" have been agreed on, and you have a "Get out of jail free" card of some sort. The scripts have defaults set for our lab. If you wish to run these scripts, change the defaults for your context or provide arguments._
-
-Use [pyinstaller](https://github.com/tymyrddin/nirridit/wiki/Pyinstaller) to create the binaries.
 
 ## Scripts
 
