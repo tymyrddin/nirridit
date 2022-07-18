@@ -13,7 +13,7 @@ Note: Linux and macOS have Python installed, so evil scripts written in Python w
 
 - [x] [Windows](windows)
 - [x] [macOS](macos)
-- [ ] [Linux](linux)
+- [x] [Linux](linux)
 
 ## Problems or Suggestions
 
