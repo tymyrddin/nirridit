@@ -11,9 +11,9 @@ Note: Linux and macOS have Python installed, so evil scripts written in Python w
 
 ## Scripts
 
-- [x] [Windows](windows)
-- [x] [macOS](macos)
-- [x] [Linux](linux)
+* [Windows](windows)
+* [macOS](macos)
+* [Linux](linux)
 
 ## Problems or Suggestions
 
